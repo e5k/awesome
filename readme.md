@@ -980,6 +980,7 @@
 - [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+- [Volcano](https://github.com/CERG-C/awesome-volcano#readme) - Resources for research in volcanology from processes to impacts of eruptions.
 
 ## Related
 
